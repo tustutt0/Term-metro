@@ -1,2 +1,3 @@
-# Term-metro
-In this project, I make a thermometer with low coast and easy manipulate
+# Termômetro
+Esse projeto foca na produção de um termômetro de baixo custo utilizando apenas impressão 3D e eletrônicos usuais para
+conseguir medir a temperatura do ambiente 
