@@ -1,1 +1,3 @@
-
+A estrutura desse projeto foi pensada para armazenar toda a eletrônica do projeto, enquanto otimiza o material gasto de impressão. Além disso, esse modelo 3D
+pensou em outros fatores, como a necessidade de alimentação da eletrônica(criando um suporte para bateria), poder ligar e desligar o circuito e ter um espaço para 
+poder passar o USB, para poder configurar o microcontrolador caso seja necessário no futuro.
