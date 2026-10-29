@@ -6,3 +6,4 @@ As mudanças de temperatura ao longo do dia podem tornar ambientes como quartos,
 
 Por isso , esse projeto foi criado, para auxiliar no controle do conforto térmico, que está cada vez mais difícil de ser satisfeito.
 
+![Termômetro]("C:\Users\TUSTU\Downloads\Foto do Termômetro sem tampa")
